@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=induni1999" alt="induni1999" /></a> </p>
 
-- 🌱 I’m currently learning **I’m currently learning Management & Information Systems- @NSBM green University**
+- 🌱 I’m currently learning **I’m currently learning Management & Information Systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Induni1999](https://github.com/Induni1999)
 
